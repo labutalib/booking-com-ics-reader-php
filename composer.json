@@ -1,7 +1,7 @@
 {
     "name": "labutalib/booking-com-ics-reader-php",
     "description": "A simple PHP-Class that allows guesthouse owners with php knowledge to parse the ics calendar files of their accommodations from booking.com and output them as an array.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Laurens Abu-Talib",
